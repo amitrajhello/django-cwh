@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.ipynb
+/.vscode/*
+/venv/*
+/data/*
+/notebooks/*
+/.vscode/*
